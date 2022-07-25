@@ -9,8 +9,8 @@ This project pushed on the Docker Hub, so you can just pull it from there.
 
 Pull this project from Docker Hub, for this you need to be registered there, then use these commands:
 ```shell
--docker pull serhii1leonenko/api-cinema-service`
--docker compose up app
+docker pull serhii1leonenko/api-cinema-service
+docker compose up app
 ```
 After that use you browser for local connection to the API.
 
